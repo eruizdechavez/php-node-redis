@@ -1,0 +1,13 @@
+{
+    "name": "www",
+    "authors": [
+        {
+            "name": "Erick Ruiz de Chavez",
+            "email": "erickrdch@icloud.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "dev-master",
+        "mustache/mustache": "dev-master"
+    }
+}
