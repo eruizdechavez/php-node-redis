@@ -25,11 +25,14 @@ Make sure you have Redis running on your computer with its defaul settings; if s
 
 On one terminal window run: 
 
-`php -S localhost:8000`
+```sh
+php -S localhost:8000
+```
 
 On a different terminal (without closing the previous one) run: 
 
-`node index.js`
+```sh
+node index.js
+```
 
 Finally, with both applications running, open your browser and go to [http://localhost:8000](http://localhost:8000)
-
